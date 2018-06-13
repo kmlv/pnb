@@ -175,7 +175,7 @@ label variable practicas "Practicas preprofesionales"
 label variable ext_practicas "Practicas >6 meses"
 
 
-cd "D:\Drive\DataPNB\ProcessedData"
+cd "D:\Drive\DataPNB\ProcessedData\InsercionBeca18"
 save beca18_insercion.dta, replace
 
 //Regresion
